@@ -1,9 +1,6 @@
 # Brain Tumor Segmentation on BraTS 2020 Using SWIN-UNET, MEDSAM and VLM
 
 A comparative deep learning study evaluating three model architectures — **Swin-UNet**, **MedSAM**, and a **VLM adapter** — for multi-class glioma segmentation on multimodal MRI scans. Models are trained to delineate three clinically distinct tumor sub-regions: Necrotic Core (NCR/NET), Peritumoral Edema (ED), and Enhancing Tumor (ET).
-
----
-
 ## Table of Contents
 
 - [Overview](#overview)
